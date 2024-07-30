@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|c:\\users\\osval\\onedrive\\documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|solutionrelative:prueba_tecnica_backend\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|c:\\users\\osval\\onedrive\\documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|solutionrelative:prueba_tecnica_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_backend\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "prueba_tecnica_backend\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:35:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "prueba_tecnica_backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:14:24.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

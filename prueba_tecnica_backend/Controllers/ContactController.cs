@@ -12,14 +12,14 @@ namespace prueba_tecnica_backend.Controllers
             return "Creando contacto nuevo";
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("contact/registered_contacts")]
         public string GetContacts()
         {
             return "Obteniendo contactos registrados";
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("contact/registered_contact/{id}")]
         public string GetContactById(int id)
         {
