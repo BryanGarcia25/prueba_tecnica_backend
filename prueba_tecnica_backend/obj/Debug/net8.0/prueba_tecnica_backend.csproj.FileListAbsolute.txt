@@ -30,3 +30,4 @@ C:\Users\osval\OneDrive\Documentos\prueba_tecnica_backend\prueba_tecnica_backend
 C:\Users\osval\OneDrive\Documentos\prueba_tecnica_backend\prueba_tecnica_backend\obj\Debug\net8.0\prueba_tecnica_backend.pdb
 C:\Users\osval\OneDrive\Documentos\prueba_tecnica_backend\prueba_tecnica_backend\obj\Debug\net8.0\prueba_tecnica_backend.genruntimeconfig.cache
 C:\Users\osval\OneDrive\Documentos\prueba_tecnica_backend\prueba_tecnica_backend\obj\Debug\net8.0\ref\prueba_tecnica_backend.dll
+C:\Users\osval\OneDrive\Documentos\prueba_tecnica_backend\prueba_tecnica_backend\obj\Debug\net8.0\prueba_tecnica_backend.sourcelink.json
