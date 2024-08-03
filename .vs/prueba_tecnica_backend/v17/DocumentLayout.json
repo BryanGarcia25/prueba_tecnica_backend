@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|c:\\users\\osval\\onedrive\\documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|solutionrelative:prueba_tecnica_backend\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|c:\\users\\osval\\onedrive\\documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\utils\\generatejwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|solutionrelative:prueba_tecnica_backend\\utils\\generatejwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|c:\\users\\osval\\onedrive\\documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|solutionrelative:prueba_tecnica_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|c:\\users\\osval\\onedrive\\documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\data\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335920DF-CF94-4934-84D1-100BAF3771F9}|prueba_tecnica_backend\\prueba_tecnica_backend.csproj|solutionrelative:prueba_tecnica_backend\\data\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\osval\\AppData\\Roaming\\Microsoft\\UserSecrets\\eaa59501-d543-4fbf-b688-f62ee8915e26\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +26,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "prueba_tecnica_backend\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "prueba_tecnica_backend\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCQAAAAlAAAA",
+              "Title": "GenerateJWTToken.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Utils\\GenerateJWTToken.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_backend\\Utils\\GenerateJWTToken.cs",
+              "ToolTip": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Utils\\GenerateJWTToken.cs",
+              "RelativeToolTip": "prueba_tecnica_backend\\Utils\\GenerateJWTToken.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wB0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:35:31.518Z",
+              "WhenOpened": "2024-08-03T07:35:51.168Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "prueba_tecnica_backend\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Controllers\\UserController.cs",
-              "RelativeToolTip": "prueba_tecnica_backend\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwBAAAAApAAAA",
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Data\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_backend\\Data\\ConnectDB.cs",
+              "ToolTip": "C:\\Users\\osval\\OneDrive\\Documentos\\prueba_tecnica_backend\\prueba_tecnica_backend\\Data\\ConnectDB.cs",
+              "RelativeToolTip": "prueba_tecnica_backend\\Data\\ConnectDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:14:24.152Z",
+              "WhenOpened": "2024-08-03T07:33:52.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\osval\\AppData\\Roaming\\Microsoft\\UserSecrets\\eaa59501-d543-4fbf-b688-f62ee8915e26\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\eaa59501-d543-4fbf-b688-f62ee8915e26\\secrets.json",
+              "ToolTip": "C:\\Users\\osval\\AppData\\Roaming\\Microsoft\\UserSecrets\\eaa59501-d543-4fbf-b688-f62ee8915e26\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\eaa59501-d543-4fbf-b688-f62ee8915e26\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T00:42:45.679Z",
               "EditorCaption": ""
             }
           ]
