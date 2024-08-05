@@ -2,6 +2,7 @@
 
 namespace prueba_tecnica_backend.Models
 {
+    // Creando clase como modelo llamada User con los atributos Id, Name, Email y CreateDate
     public class User
     {
         [Key]

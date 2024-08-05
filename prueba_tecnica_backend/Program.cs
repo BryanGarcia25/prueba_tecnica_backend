@@ -15,11 +15,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Inicializamos nuestros servicios de conexión con la base de datos y para generar el token JWT
 builder.Services.AddDbContext<ConnectDB>();
 builder.Services.AddSingleton<GenerateJWTToken>();
 
+// Al iniciar nuestro proyecto, indicamos que para acceder a nuestras peticiones debe estar autenticado el usuario con JWT
 builder.Services.AddAuthentication(config =>
 {
+    // Indicamos los esquemas de autenticación
     config.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     config.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 }).AddJwtBearer(config =>
